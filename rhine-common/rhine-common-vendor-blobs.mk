@@ -31,6 +31,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/rhine-common/proprietary/bin/ptt_socket_app:system/bin/ptt_socket_app \
     vendor/sony/rhine-common/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/sony/rhine-common/proprietary/bin/qseecomd:system/bin/qseecomd \
+    vendor/sony/rhine-common/proprietary/bin/radish:system/bin/radish \
     vendor/sony/rhine-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/sony/rhine-common/proprietary/bin/sct_service:system/bin/sct_service \
     vendor/sony/rhine-common/proprietary/bin/set_cabc:system/bin/set_cabc \
